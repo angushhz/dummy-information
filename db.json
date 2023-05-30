@@ -1,79 +1,11 @@
 {
-    "data": {
-        "notifies": [
-            {
-                "id": 114949671,
-                "isValid": 1,
-                "isRead": 1,
-                "isReview": 1,
-                "notifyType": 1,
-                "masterId": 1,
-                "userId": 0,
-                "userType": 0,
-                "fromUserId": 1,
-                "link": "https://www.gogojungle.co.jp/info/20392",
-                "subject": "【特別映像】3年間の失敗からの立志伝。45%の勝率でも億を目指せるトレード！森様の独自理論が明らかに",
-                "content": "シリーズ第2回目【特別映像】3年の失敗からの立志伝。45%の勝率でも億を目指せるトレード！森様の独自理論が明らかにこんばんは！GogoJun",
-                "createdAt": "2023-05-27T12:21:09.000Z",
-                "updatedAt": "2023-05-29T11:11:04.000Z",
-                "avatar": "https://picsum.photos/seed/picsum/200/300",
-                "isNotice": 1
-            },
-            {
-                "id": 114949671,
-                "isValid": 1,
-                "isRead": 1,
-                "isReview": 1,
-                "notifyType": 1,
-                "masterId": 0,
-                "userId": 110001,
-                "userType": 0,
-                "fromUserId": 1000,
-                "link": "https://www.gogojungle.co.jp/info/20392",
-                "subject": "【特別映像】3年間の失敗からの立志伝。45%の勝率でも億を目指せるトレード！森様の独自理論が明らかに",
-                "content": "シリーズ第2回目【特別映像】3年の失敗からの立志伝。45%の勝率でも億を目指せるトレード！森様の独自理論が明らかにこんばんは！GogoJun",
-                "createdAt": "2023-05-27T12:21:09.000Z",
-                "updatedAt": "2023-05-29T11:11:04.000Z",
-                "avatar": "https://picsum.photos/seed/picsum/200/300",
-                "isNotice": 0
-            },
-            {
-                "id": 114949671,
-                "isValid": 1,
-                "isRead": 1,
-                "isReview": 1,
-                "notifyType": 1,
-                "masterId": 1,
-                "userId": 0,
-                "userType": 0,
-                "fromUserId": 0,
-                "link": "https://www.gogojungle.co.jp/info/20392",
-                "subject": "【特別映像】3年間の失敗からの立志伝。45%の勝率でも億を目指せるトレード！森様の独自理論が明らかに",
-                "content": "シリーズ第2回目【特別映像】3年の失敗からの立志伝。45%の勝率でも億を目指せるトレード！森様の独自理論が明らかにこんばんは！GogoJun",
-                "createdAt": "2023-05-27T12:21:09.000Z",
-                "updatedAt": "2023-05-29T11:11:04.000Z",
-                "avatar": "https://picsum.photos/seed/picsum/200/300",
-                "isNotice": 0
-            },
-             {
-                "id": 114949671,
-                "isValid": 1,
-                "isRead": 1,
-                "isReview": 1,
-                "notifyType": 1,
-                "masterId": 222,
-                "userId": 57570,
-                "userType": 0,
-                "fromUserId": 110001,
-                "link": "https://www.gogojungle.co.jp/info/20392",
-                "subject": "【特別映像】3年間の失敗からの立志伝。45%の勝率でも億を目指せるトレード！森様の独自理論が明らかに",
-                "content": "シリーズ第2回目【特別映像】3年の失敗からの立志伝。45%の勝率でも億を目指せるトレード！森様の独自理論が明らかにこんばんは！GogoJun",
-                "createdAt": "2023-05-27T12:21:09.000Z",
-                "updatedAt": "2023-05-29T11:11:04.000Z",
-                "avatar": "https://picsum.photos/seed/picsum/200/300",
-                "isNotice": 0
-            }
-        ]
-    },
-    "message": "OK"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
